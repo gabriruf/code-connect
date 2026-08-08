@@ -9,6 +9,10 @@
     "lint": "oxlint",
     "preview": "vite preview"
   },
+  "tests": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
   "dependencies": {
     "react": "^19.2.8",
     "react-dom": "^19.2.8"
