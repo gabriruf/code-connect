@@ -12,5 +12,8 @@
     "lint:api": "pnpm --filter api lint",
     "test:api": "pnpm --filter api test",
     "test:e2e:api": "pnpm --filter api test:e2e"
+  },
+  "devDependencies": {
+    "@types/jest": "^30.0.0"
   }
 }
