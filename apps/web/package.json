@@ -7,9 +7,7 @@
     "dev": "vite",
     "build": "tsc -b && vite build",
     "lint": "oxlint",
-    "preview": "vite preview"
-  },
-  "tests": {
+    "preview": "vite preview",
     "test": "vitest run",
     "test:watch": "vitest"
   },
